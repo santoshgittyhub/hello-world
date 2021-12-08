@@ -1,3 +1,1 @@
-<h1> Hello, Welcome to Simple DevOps Project !!   </h1>
-<h2> Deploying on a VM Server </h2>
-<h3> Test </h3>
+<h1> Practice Is the Key to Success!!   </h1>
